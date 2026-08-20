@@ -35,29 +35,42 @@ An AI coworker with a real cloud desktop: browser, terminal, files, email, calen
 
 Chat windows reason for a minute, then forget you exist. Construct gives an AI coworker a real computer instead: its own cloud desktop it can click, type, read, and navigate like a person would. Open the screen from any device to watch it work, take the keys back, or let it run.
 
-### The desk
-
-Browser, terminal, and files in a windowed OS you can watch, use, and take over mid-task.
-
-### Memory that sticks
-
-Facts, preferences, and context persist across every session. Read it, correct it, wipe it.
-
-### Email and calendar
-
-Native inbox and scheduling. Jobs that run, not reminders that wait.
-
-### Workflows and apps
-
-Freeze a good run into defined logic or an internal app your whole team can trigger.
-
-### 20+ built-in tools
-
-Files, browser, terminal, email, calendar, code execution, and more.
-
-### Runs on the edge
-
-Our own harness on Cloudflare, not a VM per agent. Idle burns nothing.
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <strong>The desk</strong>
+      <br />
+      Browser, terminal, and files in a windowed OS you can watch, use, and take over mid-task.
+    </td>
+    <td width="33%" valign="top" align="center">
+      <strong>Memory that sticks</strong>
+      <br />
+      Facts, preferences, and context persist across every session. Read it, correct it, wipe it.
+    </td>
+    <td width="33%" valign="top" align="center">
+      <strong>Email and calendar</strong>
+      <br />
+      Native inbox and scheduling. Jobs that run, not reminders that wait.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <strong>Workflows and apps</strong>
+      <br />
+      Freeze a good run into defined logic or an internal app your whole team can trigger.
+    </td>
+    <td width="33%" valign="top" align="center">
+      <strong>20+ built-in tools</strong>
+      <br />
+      Files, browser, terminal, email, calendar, code execution, and more.
+    </td>
+    <td width="33%" valign="top" align="center">
+      <strong>Runs on the edge</strong>
+      <br />
+      Our own runtime on Cloudflare, not a VM per agent. Idle burns nothing.
+    </td>
+  </tr>
+</table>
 
 ---
 
