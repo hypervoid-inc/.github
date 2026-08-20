@@ -74,6 +74,8 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
 
 ---
 
+<div align="center">
+
 ## Founders
 
 <table>
@@ -111,15 +113,29 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
   </tr>
 </table>
 
+</div>
+
+---
+
+## Latest from the blog
+
+<!-- BLOG-POST-LIST:START -->
+- [Your agent has a half-life](https://construct.computer/blog/agent-task-half-life/)
+- [All our Agents get computers, we pay for almost none](https://construct.computer/blog/running-ai-agents-on-cloudflare-not-vms/)
+- [How to Choose an AI Agent Platform for Your Team](https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/)
+<!-- BLOG-POST-LIST:END -->
+
+[All posts →](https://construct.computer/blog/)
+
 ---
 
 <div align="center">
 
 <a href="mailto:hello@construct.computer">hello@construct.computer</a> ·
 <a href="https://discord.gg/puArEQHYN9">Discord</a> ·
-<a href="https://cal.com/construct/15min">15 min demo</a> ·
+<a href="https://forms.gle/fpu7xAUbBC6EQKzQ6">15 min demo</a> ·
 <a href="mailto:security@construct.computer">security</a> ·
-<a href="mailto:careers@construct.computer">careers</a>
+<a href="https://construct.computer/careers/">careers</a>
 
 <sub>Built by two people who got tired of being the ops team.</sub>
 

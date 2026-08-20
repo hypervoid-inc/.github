@@ -1,0 +1,19 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://construct.computer/rss.xml"
+          max_post_count: "3"
+          readme_path: "profile/README.md"
