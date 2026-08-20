@@ -52,9 +52,9 @@
     <tr>
       <td align="center" width="50%" valign="top">
         <a href="https://ankush.one">
-          <img src="assets/avatar-ankush.svg" width="128" height="128" alt="Ankush Singh" />
+          <img src="assets/avatar-ankush.svg" width="64" height="64" alt="Ankush Singh" />
         </a>
-        <br /><br />
+        <br />
         <strong>Ankush Singh</strong>
         <br />
         Co-founder
@@ -67,9 +67,9 @@
       </td>
       <td align="center" width="50%" valign="top">
         <a href="https://construct.computer/authors/nischal/">
-          <img src="assets/avatar-nischal.svg" width="128" height="128" alt="Nischal Naik" />
+          <img src="assets/avatar-nischal.svg" width="64" height="64" alt="Nischal Naik" />
         </a>
-        <br /><br />
+        <br />
         <strong>Nischal Naik</strong>
         <br />
         Co-founder
