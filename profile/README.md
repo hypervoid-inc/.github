@@ -1,4 +1,4 @@
-<!-- Construct Computer · Hypervoid Inc. -->
+<!-- Construct Computer -->
 
 <div align="center">
   <a href="https://construct.computer">
@@ -9,9 +9,11 @@
     &nbsp;
     <a href="https://construct.computer"><img src="assets/cta-website.svg" alt="Website" height="36" /></a>
     &nbsp;
+    <a href="https://www.producthunt.com/products/construct-computer"><img src="assets/cta-ph.svg" alt="Product Hunt" height="36" /></a>
+    &nbsp;
     <a href="https://discord.gg/puArEQHYN9"><img src="assets/cta-discord.svg" alt="Discord" height="36" /></a>
     &nbsp;
-    <a href="https://x.com/use_construct"><img src="assets/cta-x.svg" alt="X" height="36" /></a>
+    <a href="https://x.com/useconstruct"><img src="assets/cta-x.svg" alt="X" height="36" /></a>
   </p>
   <p>
     Chat windows reason for a minute, then forget you exist. Construct gives an AI coworker a real cloud desktop — browser, terminal, files, email, calendar, memory that survives the session — and leaves it running after you close the laptop.
@@ -23,7 +25,7 @@
     <img src="assets/chips.svg" alt="Desktop, Memory, Browser, Terminal, Email, Calendar, Workflows, Apps" width="100%" />
   </p>
   <p>
-    Hypervoid Inc. built this because hiring was the obvious answer and the runway math said no. Ankush's last tool hit 30k users and got acquired. Engineering was fine. Being the CRM, the support inbox, and the follow-up guy at the same time was not.
+    We built this because hiring was the obvious answer and the runway math said no. The last tool hit 30k users and got acquired. Engineering was fine. Being the CRM, the support inbox, and the follow-up guy at the same time was not.
   </p>
   <p>
     <a href="https://construct.computer/about/">About</a>
@@ -63,7 +65,7 @@
         <br />
         <strong>Ankush Singh</strong>
         <br />
-        Co-founder &amp; CTO
+        Co-founder &amp; CEO
         <br /><br />
         <a href="https://github.com/ankushKun">GitHub</a>
         ·
@@ -113,6 +115,6 @@
     <a href="mailto:careers@construct.computer">careers</a>
   </p>
   <p>
-    <sub>Hypervoid Inc. · marketing site is public in <a href="https://github.com/hypervoid-inc/landing">landing</a>. The OS is proprietary. Cheers.</sub>
+    <sub>Marketing site is public in <a href="https://github.com/hypervoid-inc/construct">construct</a>. The OS is proprietary. Cheers.</sub>
   </p>
 </div>
