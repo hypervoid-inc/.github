@@ -1,29 +1,24 @@
 <!-- Construct Computer · Hypervoid Inc. -->
 
 <div align="center">
-  <h1>
-    <a href="https://construct.computer">
-      <img src="assets/hero-light.svg#gh-light-mode-only" alt="Construct Computer — an AI employee you can actually work with" width="100%" />
-      <img src="assets/hero-dark.svg#gh-dark-mode-only" alt="" width="100%" />
-    </a>
-  </h1>
-
+  <a href="https://construct.computer">
+    <img src="assets/hero.svg" alt="Construct Computer — an AI employee you can actually work with" width="100%" />
+  </a>
   <p>
-    <a href="https://os.construct.computer"><img src="assets/cta-start.svg#gh-light-mode-only" alt="Start now" height="36" /><img src="assets/cta-start-dark.svg#gh-dark-mode-only" alt="" height="36" /></a>
+    <a href="https://os.construct.computer"><img src="assets/cta-start.svg" alt="Start now" height="36" /></a>
     &nbsp;
-    <a href="https://construct.computer"><img src="assets/cta-website.svg#gh-light-mode-only" alt="Website" height="36" /><img src="assets/cta-website-dark.svg#gh-dark-mode-only" alt="" height="36" /></a>
+    <a href="https://construct.computer"><img src="assets/cta-website.svg" alt="Website" height="36" /></a>
     &nbsp;
-    <a href="https://discord.gg/puArEQHYN9"><img src="assets/cta-discord.svg#gh-light-mode-only" alt="Discord" height="36" /><img src="assets/cta-discord-dark.svg#gh-dark-mode-only" alt="" height="36" /></a>
+    <a href="https://discord.gg/puArEQHYN9"><img src="assets/cta-discord.svg" alt="Discord" height="36" /></a>
     &nbsp;
-    <a href="https://x.com/use_construct"><img src="assets/cta-x.svg#gh-light-mode-only" alt="Follow on X" height="36" /><img src="assets/cta-x-dark.svg#gh-dark-mode-only" alt="" height="36" /></a>
+    <a href="https://x.com/use_construct"><img src="assets/cta-x.svg" alt="X" height="36" /></a>
   </p>
 </div>
 
 Your constraint is hours, not ideas. Construct gives an AI employee a real cloud computer — files, memory, a browser, a terminal, email, a calendar, and the apps you already run — so the work finishes while you do something else.
 
 <div align="center">
-  <img src="assets/chips-light.svg#gh-light-mode-only" alt="Desktop, Memory, Browser, Terminal, Email, Calendar, Workflows, Apps" width="100%" />
-  <img src="assets/chips-dark.svg#gh-dark-mode-only" alt="" width="100%" />
+  <img src="assets/chips.svg" alt="Desktop, Memory, Browser, Terminal, Email, Calendar, Workflows, Apps" width="100%" />
 </div>
 
 Hypervoid Inc. builds Construct for solo founders and small teams. You assign an outcome. It picks the tools, runs the job, and leaves files plus an Activity trail you can inspect. Plans from $9/month, with 7 days of Pro free.
@@ -47,8 +42,7 @@ Hypervoid Inc. builds Construct for solo founders and small teams. You assign an
 Every agent gets a complete working environment on day one. Files saved in the workspace remain after a conversation ends; live browser runs and shell state do not. You can interrupt a turn, correct memory, and read a bounded Activity log of what happened.
 
 <div align="center">
-  <img src="assets/workstation-light.svg#gh-light-mode-only" alt="Workstation: desktop, files, memory, browser and terminal, email and calendar, apps and channels" width="100%" />
-  <img src="assets/workstation-dark.svg#gh-dark-mode-only" alt="" width="100%" />
+  <img src="assets/workstation.svg" alt="Workstation: desktop, files, memory, browser and terminal, email and calendar, apps and channels" width="100%" />
 </div>
 
 Transparency over magic. Scoped resources by default. Your model keys if you want them. The current platform is proprietary; custom MCP servers and private workspace apps are the supported ways to extend it.
