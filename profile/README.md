@@ -74,6 +74,18 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
 
 ---
 
+## Latest from the blog
+
+<!-- BLOG-POST-LIST:START -->
+- [Your agent has a half-life](https://construct.computer/blog/agent-task-half-life/)
+- [All our Agents get computers, we pay for almost none](https://construct.computer/blog/running-ai-agents-on-cloudflare-not-vms/)
+- [How to Choose an AI Agent Platform for Your Team](https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/)
+<!-- BLOG-POST-LIST:END -->
+
+[All posts →](https://construct.computer/blog/)
+
+---
+
 <div align="center">
 
 ## Founders
@@ -114,18 +126,6 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
 </table>
 
 </div>
-
----
-
-## Latest from the blog
-
-<!-- BLOG-POST-LIST:START -->
-- [Your agent has a half-life](https://construct.computer/blog/agent-task-half-life/)
-- [All our Agents get computers, we pay for almost none](https://construct.computer/blog/running-ai-agents-on-cloudflare-not-vms/)
-- [How to Choose an AI Agent Platform for Your Team](https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/)
-<!-- BLOG-POST-LIST:END -->
-
-[All posts →](https://construct.computer/blog/)
 
 ---
 
