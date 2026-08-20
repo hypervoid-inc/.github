@@ -16,7 +16,7 @@ An AI coworker with a real cloud desktop: browser, terminal, files, email, calen
 
 <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare&logoColor=white" />
 <img alt="PostHog" src="https://img.shields.io/badge/PostHog-1D4AFF?logo=posthog&logoColor=white" />
-<img alt="Kilo Code" src="https://img.shields.io/badge/Kilo_Code-01b4c8" />
+<img alt="Kilo Code" src="https://img.shields.io/badge/Kilo_Code-000000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PGcgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTIzLDI2di0yaDN2LTVsLTItMmgtNHYyaC0zdjVsMiwyaDR2LTJoLTN2LTNoM3YzaC0zdi0zWiIvPjxyZWN0IHg9IjEyIiB5PSIxNyIgd2lkdGg9IjMiIGhlaWdodD0iMyIvPjxwb2x5Z29uIHBvaW50cz0iMjYgMTIgMjMgMTIgMjMgOSAyMCA2IDE3IDYgMTcgOSAyMCA5IDIwIDEyIDE3IDEyIDE3IDE1IDI2IDE1IDI2IDEyIi8+PHBvbHlnb24gcG9pbnRzPSIxNSAyNiAxNSAyMyA5IDIzIDkgMTcgNiAxNyA2IDIzLjE4NzUgOC44MTI1IDI2IDE1IDI2Ii8+PHJlY3QgeD0iMTIiIHk9IjYiIHdpZHRoPSIzIiBoZWlnaHQ9IjMiLz48cG9seWdvbiBwb2ludHM9IjkgMTIgMTIgMTIgMTUgMTUgMTUgMTUgMTIgMTIgOSA5IDkgOSA2IDYgNiA2IDE1IDkgMTUgOSAxMiIvPjwvZz48L3N2Zz4K" />
 
 </div>
 
@@ -26,18 +26,29 @@ An AI coworker with a real cloud desktop: browser, terminal, files, email, calen
 
 Chat windows reason for a minute, then forget you exist. Construct gives an AI coworker a real computer instead: its own cloud desktop it can click, type, read, and navigate like a person would. Open the screen from any device to watch it work, take the keys back, or let it run.
 
-<div align="center">
+### The desk
 
-| | |
-|---|---|
-| **Real desktop** | Browser, terminal, and files in a windowed OS you can watch, use, and take over mid-task. |
-| **Long-term memory** | Facts, preferences, and context persist across every session. Read it, correct it, wipe it. |
-| **Email and calendar** | Native inbox and scheduling. Jobs that run, not reminders that wait. |
-| **Workflows and apps** | Freeze a good run into defined logic or an internal app your whole team can trigger. |
-| **20+ built-in tools** | Files, browser, terminal, email, calendar, code execution, and more. |
-| **Runs on the edge** | Our own harness on Cloudflare, not a VM per agent. Idle burns nothing. |
+Browser, terminal, and files in a windowed OS you can watch, use, and take over mid-task.
 
-</div>
+### Memory that sticks
+
+Facts, preferences, and context persist across every session. Read it, correct it, wipe it.
+
+### Email and calendar
+
+Native inbox and scheduling. Jobs that run, not reminders that wait.
+
+### Workflows and apps
+
+Freeze a good run into defined logic or an internal app your whole team can trigger.
+
+### 20+ built-in tools
+
+Files, browser, terminal, email, calendar, code execution, and more.
+
+### Runs on the edge
+
+Our own harness on Cloudflare, not a VM per agent. Idle burns nothing.
 
 ---
 
