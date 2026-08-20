@@ -5,7 +5,7 @@
     <img src="assets/hero.svg" alt="Construct Computer — a real computer, not a chat window" width="100%" />
   </a>
   <p>
-    <a href="https://os.construct.computer"><img src="assets/cta-start.svg" alt="Start now" height="36" /></a>
+    <a href="https://os.construct.computer"><img src="assets/cta-start.svg" alt="Hire Construct" height="36" /></a>
     &nbsp;
     <a href="https://construct.computer"><img src="assets/cta-website.svg" alt="Website" height="36" /></a>
     &nbsp;
