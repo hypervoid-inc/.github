@@ -4,7 +4,10 @@
 
 # `construct.computer`
 
-**Your AI agent gets its own computer.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=580&amp;height=40&amp;background=00000000&amp;color=E6EDF3&amp;lines=Your+AI+agent+gets+its+own+computer.;A+real+computer.+Not+a+chat+window." />
+  <img alt="Your AI agent gets its own computer." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=580&amp;height=40&amp;background=00000000&amp;color=1F2328&amp;lines=Your+AI+agent+gets+its+own+computer.;A+real+computer.+Not+a+chat+window." />
+</picture>
 
 An AI coworker with a real cloud desktop: browser, terminal, files, email, calendar, and memory that survives the session. You hand it work, close the laptop, and it keeps going.
 
@@ -12,18 +15,36 @@ An AI coworker with a real cloud desktop: browser, terminal, files, email, calen
 <a href="https://construct.computer"><strong>Website</strong></a>
 
 <p>
+  <a href="https://os.construct.computer">
+    <img src="assets/desktop.jpg" width="800" alt="Construct desktop with Browser, Workflows, and chat" />
+  </a>
+</p>
+
+<p>
+  <a href="https://discord.gg/puArEQHYN9"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="28" height="28" /></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/use_construct">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff" />
+      <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="28" height="28" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/company/construct-computer"><img src="assets/icon-linkedin.svg" alt="LinkedIn" width="28" height="28" /></a>
+</p>
+
+<p>
   <a href="https://workers.cloudflare.com"><img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare&logoColor=white" /></a>
   <a href="https://posthog.com"><img alt="PostHog" src="https://img.shields.io/badge/PostHog-EEEFE9.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCA1MCAzMCI+PHBhdGggZmlsbD0iIzFENEFGRiIgZD0iTTEwLjg5MSAxNy4yMDZhMSAxIDAgMCAxLTEuNzg4IDBsLS44ODItMS43NjNhMSAxIDAgMCAxIDAtLjg5NGwuODgyLTEuNzYzYTEgMSAwIDAgMSAxLjc4OCAwbC44ODIgMS43NjNhMSAxIDAgMCAxIDAgLjg5NGwtLjg4MiAxLjc2M3ptMCA5Ljk5N2ExIDEgMCAwIDEtMS43ODggMEw4LjIyIDI1LjQ0YTEgMSAwIDAgMSAwLS44OTRsLjg4Mi0xLjc2M2ExIDEgMCAwIDEgMS43ODggMGwuODgyIDEuNzYzYTEgMSAwIDAgMSAwIC44OTRsLS44ODIgMS43NjN6Ii8+PHBhdGggZmlsbD0iI0Y5QkQyQiIgZD0iTTAgMjMuNDA4YzAtLjg5IDEuMDc3LTEuMzM3IDEuNzA3LS43MDdsNC41ODMgNC41ODNjLjYzLjYzLjE4NCAxLjcwOC0uNzA3IDEuNzA4SDFhMSAxIDAgMCAxLTEtMXYtNC41ODR6bTAtNC44MjhhMSAxIDAgMCAwIC4yOTMuNzA4bDkuNDExIDkuNDFhMSAxIDAgMCAwIC43MDcuMjk0aDUuMTdjLjg5IDAgMS4zMzctMS4wNzcuNzA3LTEuNzA3bC0xNC41OC0xNC41OEMxLjA3NyAxMi4wNzQgMCAxMi41MiAwIDEzLjQxdjUuMTd6bTAtOS45OTdhMSAxIDAgMCAwIC4yOTMuNzA3TDE5LjcgMjguN2ExIDEgMCAwIDAgLjcwNy4yOTNoNS4xN2MuODkgMCAxLjMzNy0xLjA3OC43MDctMS43MDhMMS43MDcgMi43MDdDMS4wNzcgMi4wNzcgMCAyLjUyMyAwIDMuNDE0djUuMTd6bTkuOTk3IDBhMSAxIDAgMCAwIC4yOTMuNzA3bDE3Ljk5NCAxNy45OTVjLjYzLjYzIDEuNzA3LjE4MyAxLjcwNy0uNzA4di01LjE2OWExIDEgMCAwIDAtLjI5My0uNzA3TDExLjcwNCAyLjcwN2MtLjYzLS42My0xLjcwNy0uMTg0LTEuNzA3LjcwN3Y1LjE3em0xMS43MDQtNS44NzZjLS42My0uNjMtMS43MDctLjE4NC0xLjcwNy43MDd2NS4xN2ExIDEgMCAwIDAgLjI5My43MDZsNy45OTcgNy45OThjLjYzLjYzIDEuNzA3LjE4MyAxLjcwNy0uNzA4di01LjE2OWExIDEgMCAwIDAtLjI5My0uNzA3bC03Ljk5Ny03Ljk5N3oiLz48cGF0aCBmaWxsPSIjMDAwIiBkPSJtNDIuNTI1IDIzLjUzLTkuNDEzLTkuNDEyYy0uNjMtLjYzLTEuNzA3LS4xODQtMS43MDcuNzA3djEzLjE2N2ExIDEgMCAwIDAgMSAxaDE0LjU4YTEgMSAwIDAgMCAxLTF2LTEuMmMwLS41NTItLjQ0OS0uOTkzLS45OTctMS4wNjRhNy43MjMgNy43MjMgMCAwIDEtNC40NjMtMi4xOTd6bS02LjMyMSAyLjI2M2ExLjYgMS42IDAgMSAxIDAtMy4yIDEuNiAxLjYgMCAwIDEgMCAzLjJ6Ii8+PHBhdGggZmlsbD0iIzFENEFGRiIgZD0iTTAgMjcuOTkyYTEgMSAwIDAgMCAxIDFoNC41ODNjLjg5MSAwIDEuMzM3LTEuMDc4LjcwNy0xLjcwOGwtNC41ODMtNC41ODNjLS42My0uNjMtMS43MDctLjE4NC0xLjcwNy43MDd2NC41ODR6bTkuOTk3LTE2Ljk5NS04LjI5LTguMjlDMS4wNzcgMi4wNzcgMCAyLjUyMyAwIDMuNDE0djUuMTdhMSAxIDAgMCAwIC4yOTMuNzA2bDkuNzA0IDkuNzA1di03Ljk5OHptLTguMjkgMS43MDdjLS42My0uNjMtMS43MDctLjE4NC0xLjcwNy43MDd2NS4xN2ExIDEgMCAwIDAgLjI5My43MDZsOS43MDQgOS43MDV2LTcuOTk4bC04LjI5LTguMjl6Ii8+PHBhdGggZmlsbD0iI0Y1NEUwMCIgZD0iTTE5Ljk5NCAxMS40MTFhMSAxIDAgMCAwLS4yOTMtLjcwN2wtNy45OTctNy45OTdjLS42My0uNjMtMS43MDctLjE4NC0xLjcwNy43MDd2NS4xN2ExIDEgMCAwIDAgLjI5My43MDZsOS43MDQgOS43MDVWMTEuNDF6bS05Ljk5NyAxNy41OGg1LjU4M2MuODkxIDAgMS4zMzctMS4wNzcuNzA3LTEuNzA3bC02LjI5LTYuMjl2Ny45OTh6bTAtMTcuOTk0djcuNTgzYTEgMSAwIDAgMCAuMjkzLjcwOGw5LjcwNCA5LjcwNHYtNy41ODRhMSAxIDAgMCAwLS4yOTMtLjcwN2wtOS43MDQtOS43MDR6Ii8+PC9zdmc+" /></a>
   <a href="https://kilo.ai"><img alt="Kilo Code" src="https://img.shields.io/badge/Kilo_Code-000000.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTIzLDI2di0yaDN2LTVsLTItMmgtNHYyaC0zdjVsMiwyaDRaTTIwLDIwaDN2M2gtM3YtM1oiLz48cmVjdCB4PSIxMiIgeT0iMTciIHdpZHRoPSIzIiBoZWlnaHQ9IjMiLz48cG9seWdvbiBwb2ludHM9IjI2IDEyIDIzIDEyIDIzIDkgMjAgNiAxNyA2IDE3IDkgMjAgOSAyMCAxMiAxNyAxMiAxNyAxNSAyNiAxNSAyNiAxMiIvPjxwYXRoIGQ9Ik0wLDB2MzJoMzJWMEgwWk0yOSwyOUgzVjNoMjZ2MjZaIi8+PHBvbHlnb24gcG9pbnRzPSIxNSAyNiAxNSAyMyA5IDIzIDkgMTcgNiAxNyA2IDIzLjE4NzUgOC44MTI1IDI2IDE1IDI2Ii8+PHJlY3QgeD0iMTIiIHk9IjYiIHdpZHRoPSIzIiBoZWlnaHQ9IjMiLz48cG9seWdvbiBwb2ludHM9IjkgMTIgMTIgMTIgMTIgMTUgMTUgMTUgMTUgMTIgMTIgOSA5IDkgOSA2IDYgNiA2IDE1IDkgMTUgOSAxMiIvPjwvc3ZnPg==" /></a>
 </p>
-<p>
-  <a href="https://discord.gg/puArEQHYN9"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
-  <a href="https://x.com/use_construct"><img alt="X (Twitter)" src="https://img.shields.io/badge/X_(Twitter)-000000?logo=x&logoColor=white" /></a>
-  <a href="https://linkedin.com/company/construct-computer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" /></a>
-</p>
+
 <p>
   <a href="https://www.producthunt.com/products/construct-computer?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-construct-computer" target="_blank" rel="noopener noreferrer">
-    <img alt="Construct Computer - Your AI coworker gets a computer. You get your day back. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1186033&theme=light&t=1787246678920" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1186033&amp;theme=dark" />
+      <img alt="Construct Computer - Your AI coworker gets a computer. You get your day back. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1186033&amp;theme=light" />
+    </picture>
   </a>
 </p>
 
