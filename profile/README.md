@@ -15,9 +15,8 @@ An AI coworker with a real cloud desktop: browser, terminal, files, email, calen
 <a href="https://x.com/useconstruct"><strong>X</strong></a>
 
 <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" />
-<img alt="Hono" src="https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white" />
+<img alt="PostHog" src="https://img.shields.io/badge/PostHog-1D4AFF?logo=posthog&logoColor=white" />
+<img alt="Kilo Code" src="https://img.shields.io/badge/Kilo_Code-01b4c8" />
 
 </div>
 
