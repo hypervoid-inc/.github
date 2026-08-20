@@ -59,7 +59,7 @@
   <table>
     <tr>
       <td align="center" width="50%" valign="top">
-        <a href="https://ankush.one">
+        <a href="https://construct.computer/authors/ankush/">
           <img src="assets/avatar-ankush.svg" width="64" height="64" alt="Ankush Singh" />
         </a>
         <br />
@@ -67,11 +67,11 @@
         <br />
         Co-founder &amp; CEO
         <br /><br />
-        <a href="https://github.com/ankushKun">GitHub</a>
-        ·
         <a href="https://x.com/ankushKun_">X</a>
         ·
-        <a href="https://ankush.one">ankush.one</a>
+        <a href="https://linkedin.com/in/ankushKun">LinkedIn</a>
+        ·
+        <a href="https://construct.computer/authors/ankush/">Profile</a>
       </td>
       <td align="center" width="50%" valign="top">
         <a href="https://construct.computer/authors/nischal/">
