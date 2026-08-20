@@ -9,14 +9,23 @@
 An AI coworker with a real cloud desktop: browser, terminal, files, email, calendar, and memory that survives the session. You hand it work, close the laptop, and it keeps going.
 
 <a href="https://os.construct.computer"><strong>Try it →</strong></a> &nbsp;·&nbsp;
-<a href="https://construct.computer"><strong>Website</strong></a> &nbsp;·&nbsp;
-<a href="https://www.producthunt.com/products/construct-computer"><strong>Product Hunt</strong></a> &nbsp;·&nbsp;
-<a href="https://discord.gg/puArEQHYN9"><strong>Discord</strong></a> &nbsp;·&nbsp;
-<a href="https://x.com/useconstruct"><strong>X</strong></a>
+<a href="https://construct.computer"><strong>Website</strong></a>
 
-<img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare&logoColor=white" />
-<img alt="PostHog" src="https://img.shields.io/badge/PostHog-1D4AFF?logo=posthog&logoColor=white" />
-<img alt="Kilo Code" src="https://img.shields.io/badge/Kilo_Code-000000.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTIzLDI2di0yaDN2LTVsLTItMmgtNHYyaC0zdjVsMiwyaDRaTTIwLDIwaDN2M2gtM3YtM1oiLz48cmVjdCB4PSIxMiIgeT0iMTciIHdpZHRoPSIzIiBoZWlnaHQ9IjMiLz48cG9seWdvbiBwb2ludHM9IjI2IDEyIDIzIDEyIDIzIDkgMjAgNiAxNyA2IDE3IDkgMjAgOSAyMCAxMiAxNyAxMiAxNyAxNSAyNiAxNSAyNiAxMiIvPjxwYXRoIGQ9Ik0wLDB2MzJoMzJWMEgwWk0yOSwyOUgzVjNoMjZ2MjZaIi8+PHBvbHlnb24gcG9pbnRzPSIxNSAyNiAxNSAyMyA5IDIzIDkgMTcgNiAxNyA2IDIzLjE4NzUgOC44MTI1IDI2IDE1IDI2Ii8+PHJlY3QgeD0iMTIiIHk9IjYiIHdpZHRoPSIzIiBoZWlnaHQ9IjMiLz48cG9seWdvbiBwb2ludHM9IjkgMTIgMTIgMTIgMTIgMTUgMTUgMTUgMTUgMTIgMTIgOSA5IDkgOSA2IDYgNiA2IDE1IDkgMTUgOSAxMiIvPjwvc3ZnPg==" />
+<p>
+  <a href="https://workers.cloudflare.com"><img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare&logoColor=white" /></a>
+  <a href="https://posthog.com"><img alt="PostHog" src="https://img.shields.io/badge/PostHog-1D4AFF?logo=posthog&logoColor=white" /></a>
+  <a href="https://kilo.ai"><img alt="Kilo Code" src="https://img.shields.io/badge/Kilo_Code-000000.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTIzLDI2di0yaDN2LTVsLTItMmgtNHYyaC0zdjVsMiwyaDRaTTIwLDIwaDN2M2gtM3YtM1oiLz48cmVjdCB4PSIxMiIgeT0iMTciIHdpZHRoPSIzIiBoZWlnaHQ9IjMiLz48cG9seWdvbiBwb2ludHM9IjI2IDEyIDIzIDEyIDIzIDkgMjAgNiAxNyA2IDE3IDkgMjAgOSAyMCAxMiAxNyAxMiAxNyAxNSAyNiAxNSAyNiAxMiIvPjxwYXRoIGQ9Ik0wLDB2MzJoMzJWMEgwWk0yOSwyOUgzVjNoMjZ2MjZaIi8+PHBvbHlnb24gcG9pbnRzPSIxNSAyNiAxNSAyMyA5IDIzIDkgMTcgNiAxNyA2IDIzLjE4NzUgOC44MTI1IDI2IDE1IDI2Ii8+PHJlY3QgeD0iMTIiIHk9IjYiIHdpZHRoPSIzIiBoZWlnaHQ9IjMiLz48cG9seWdvbiBwb2ludHM9IjkgMTIgMTIgMTIgMTIgMTUgMTUgMTUgMTUgMTIgMTIgOSA5IDkgOSA2IDYgNiA2IDE1IDkgMTUgOSAxMiIvPjwvc3ZnPg==" /></a>
+</p>
+<p>
+  <a href="https://discord.gg/puArEQHYN9"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
+  <a href="https://x.com/use_construct"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/company/construct-computer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+</p>
+<p>
+  <a href="https://www.producthunt.com/products/construct-computer?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-construct-computer" target="_blank" rel="noopener noreferrer">
+    <img alt="Construct Computer - Your AI coworker gets a computer. You get your day back. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1186033&theme=light&t=1787246678920" />
+  </a>
+</p>
 
 </div>
 
