@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://construct.computer">
-    <img src="assets/hero.svg" alt="Construct Computer — an AI employee you can actually work with" width="100%" />
+    <img src="assets/hero.svg" alt="Construct Computer — a real computer, not a chat window" width="100%" />
   </a>
   <p>
     <a href="https://os.construct.computer"><img src="assets/cta-start.svg" alt="Start now" height="36" /></a>
@@ -14,35 +14,51 @@
     <a href="https://x.com/use_construct"><img src="assets/cta-x.svg" alt="X" height="36" /></a>
   </p>
   <p>
-    Your constraint is hours, not ideas. Construct gives an AI employee a real cloud computer — files, memory, a browser, a terminal, email, a calendar, and the apps you already run — so the work finishes while you do something else.
+    Chat windows reason for a minute, then forget you exist. Construct gives an AI coworker a real cloud desktop — browser, terminal, files, email, calendar, memory that survives the session — and leaves it running after you close the laptop.
+  </p>
+  <p>
+    Open the screen from any device. Watch it work. Take the keys back. Or don't. It lives on the cloud, not on your machine.
   </p>
   <p>
     <img src="assets/chips.svg" alt="Desktop, Memory, Browser, Terminal, Email, Calendar, Workflows, Apps" width="100%" />
   </p>
   <p>
-    Hypervoid Inc. builds Construct for solo founders and small teams. You assign an outcome. It picks the tools, runs the job, and leaves files plus an Activity trail you can inspect. Plans from $9/month, with 7 days of Pro free.
+    Hypervoid Inc. built this because hiring was the obvious answer and the runway math said no. Ankush's last tool hit 30k users and got acquired. Engineering was fine. Being the CRM, the support inbox, and the follow-up guy at the same time was not.
   </p>
   <p>
     <a href="https://construct.computer/about/">About</a>
     ·
     <a href="https://construct.computer/use-cases/">Use cases</a>
     ·
-    <a href="https://construct.computer/blog/">Journal</a>
+    <a href="https://construct.computer/blog/running-ai-agents-on-cloudflare-not-vms/">How it runs</a>
     ·
-    <a href="https://linkedin.com/company/construct-computer">LinkedIn</a>
+    <a href="https://www.producthunt.com/products/construct-computer">Product Hunt</a>
   </p>
   <p>
     <img src="assets/rule.svg" width="120" alt="" />
   </p>
-  <h2>The workstation</h2>
+  <h2>The desk</h2>
   <p>
-    Every agent gets a complete working environment on day one. Files saved in the workspace remain after a conversation ends; live browser runs and shell state do not. You can interrupt a turn, correct memory, and read a bounded Activity log of what happened.
+    Every agent gets its own cloud desktop on day one. Files and memory stick around after the chat dies. Live browser and shell don't. You can interrupt a turn, correct memory, and read a bounded Activity log of what actually happened.
   </p>
   <p>
     <img src="assets/workstation.svg" alt="Workstation: desktop, files, memory, browser and terminal, email and calendar, apps and channels" width="100%" />
   </p>
   <p>
-    Transparency over magic. Scoped resources by default. Your model keys if you want them. The current platform is proprietary; custom MCP servers and private workspace apps are the supported ways to extend it.
+    Once a run is right, freeze it into a workflow or an internal app. Next time it follows defined logic instead of rolling the dice again. Hosting and access are handled, so what one person builds, the team can run.
+  </p>
+  <p>
+    The harness is ours, on Cloudflare's edge — not a VM per agent. Idle doesn't burn compute. That's why leaving a dozen of them running overnight is a plan, not a billing incident.
+  </p>
+  <p>
+    <img src="assets/rule.svg" width="120" alt="" />
+  </p>
+  <h2>For you / not for you</h2>
+  <p>
+    Solo founders who need leverage and can't justify a hire yet. Small teams shipping faster than they can hire. Anyone who can describe the job in a message.
+  </p>
+  <p>
+    Not for you if you want to self-host everything — that's OpenClaw. Not for you if you want an agent living in your IDE — that's Cursor or Claude Code. We're operations, not your repo. (Yes, it can still build you internal tools.)
   </p>
   <p>
     <img src="assets/rule.svg" width="120" alt="" />
@@ -57,7 +73,7 @@
         <br />
         <strong>Ankush Singh</strong>
         <br />
-        Co-founder
+        Co-founder &amp; CTO
         <br /><br />
         <a href="https://github.com/ankushKun">GitHub</a>
         ·
@@ -72,7 +88,7 @@
         <br />
         <strong>Nischal Naik</strong>
         <br />
-        Co-founder
+        Co-founder · harness &amp; product
         <br /><br />
         <a href="https://x.com/naik_nischal">X</a>
         ·
@@ -84,26 +100,29 @@
   </table>
   <blockquote>
     <p>
-      I built developer tools before this. The last one reached 30,000 users and was acquired. The engineering was never the problem. I was also the ops team: invoicing, CRM, support, follow-ups. Hiring was the obvious answer and the runway math said no. So I ran every agent I could find. Too expensive to leave running, too slow when it mattered, and not one of them could act on its own. The models were ready. Nothing around them was. So I built the thing I had been looking for.
+      I tried every agent I could find. Every one reasoned for a minute to do a ten-second task, burned tokens like they were free, and I spent more time fixing its work than doing my own. The models were ready. Nothing around them was. So we built the coworker we actually wanted.
     </p>
     <p>— Ankush</p>
   </blockquote>
   <p>
+    Nischal came from isolates and WASM — decentralised hosting and compute — which is most of how Construct runs under the hood. Being small means we get to make the weird calls.
+  </p>
+  <p>
     <img src="assets/rule.svg" width="120" alt="" />
   </p>
-  <h2>Hello</h2>
+  <h2>Come hang</h2>
   <p>
     <a href="mailto:hello@construct.computer">hello@construct.computer</a>
     ·
-    <a href="mailto:support@construct.computer">support</a>
+    <a href="https://discord.gg/puArEQHYN9">Discord</a>
+    ·
+    <a href="https://cal.com/construct/15min">15 min demo</a>
     ·
     <a href="mailto:security@construct.computer">security</a>
     ·
     <a href="mailto:careers@construct.computer">careers</a>
-    ·
-    <a href="https://construct.computer/affiliates/">affiliates</a>
   </p>
   <p>
-    <sub>Hypervoid Inc. · the public marketing site lives in <a href="https://github.com/hypervoid-inc/landing">landing</a>. The OS is proprietary.</sub>
+    <sub>Hypervoid Inc. · marketing site is public in <a href="https://github.com/hypervoid-inc/landing">landing</a>. The OS is proprietary. Cheers.</sub>
   </p>
 </div>

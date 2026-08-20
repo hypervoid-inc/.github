@@ -3,48 +3,48 @@
     <rect width="304" height="124" rx="16" fill="#152022" stroke="#01b4c8" stroke-opacity="0.35"/>
     <rect x="20" y="18" width="8" height="8" rx="4" fill="#01b4c8"/>
     <text x="36" y="26" dominant-baseline="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="600" letter-spacing="-0.01em" fill="#F4F8F9">Desktop</text>
-    <text x="20" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">A cloud work OS: Chat, Files, Browser,</text>
-    <text x="20" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">Terminal, Email, Calendar, Workflows,</text>
-    <text x="20" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">Memories, Activity.</text>
+    <text x="20" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">The screen. Open it from anywhere.</text>
+    <text x="20" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">Watch it work, grab the keys, or close</text>
+    <text x="20" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">your laptop. It keeps going.</text>
   </g>
   <g transform="translate(328.0,0)">
     <rect width="304" height="124" rx="16" fill="#152022" stroke="#01b4c8" stroke-opacity="0.35"/>
     <rect x="20" y="18" width="8" height="8" rx="4" fill="#01b4c8"/>
     <text x="36" y="26" dominant-baseline="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="600" letter-spacing="-0.01em" fill="#F4F8F9">Files</text>
-    <text x="20" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">A searchable workspace that survives</text>
-    <text x="20" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">the thread. Upload, generate, keep the</text>
-    <text x="20" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">artifact.</text>
+    <text x="20" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">Survives the chat. Upload it, generate</text>
+    <text x="20" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">it, keep the artifact. The thread can</text>
+    <text x="20" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">die. The files don't.</text>
   </g>
   <g transform="translate(648.0,0)">
     <rect width="304" height="124" rx="16" fill="#152022" stroke="#01b4c8" stroke-opacity="0.35"/>
     <rect x="20" y="18" width="8" height="8" rx="4" fill="#01b4c8"/>
     <text x="36" y="26" dominant-baseline="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="600" letter-spacing="-0.01em" fill="#F4F8F9">Memory</text>
-    <text x="20" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">Inspect, correct, forget, or restore.</text>
-    <text x="20" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">Preferences do not live only in a</text>
-    <text x="20" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">chat.</text>
+    <text x="20" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">Read it. Correct it. Wipe it. It's yours</text>
+    <text x="20" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">— not a black box that "learned you"</text>
+    <text x="20" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">and won't say how.</text>
   </g>
   <g transform="translate(8.0,140)">
     <rect width="304" height="124" rx="16" fill="#152022" stroke="#01b4c8" stroke-opacity="0.35"/>
     <rect x="20" y="18" width="8" height="8" rx="4" fill="#01b4c8"/>
     <text x="36" y="26" dominant-baseline="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="600" letter-spacing="-0.01em" fill="#F4F8F9">Browser and terminal</text>
-    <text x="20" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">Live browser runs for real sites.</text>
-    <text x="20" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">Isolated sandbox with a durable</text>
-    <text x="20" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">/workspace.</text>
+    <text x="20" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">Real sites. Real shell. Isolated</text>
+    <text x="20" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">sandbox, durable /workspace. Not a</text>
+    <text x="20" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">toy you throw away after the demo.</text>
   </g>
   <g transform="translate(328.0,140)">
     <rect width="304" height="124" rx="16" fill="#152022" stroke="#01b4c8" stroke-opacity="0.35"/>
     <rect x="20" y="18" width="8" height="8" rx="4" fill="#01b4c8"/>
     <text x="36" y="26" dominant-baseline="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="600" letter-spacing="-0.01em" fill="#F4F8F9">Email and calendar</text>
-    <text x="20" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">Native agent inbox on Starter and Pro.</text>
-    <text x="20" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">Jobs that run — not reminders that</text>
-    <text x="20" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">wait.</text>
+    <text x="20" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">Native inbox on Starter and Pro.</text>
+    <text x="20" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">It sends. It schedules. Jobs that run</text>
+    <text x="20" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">— not reminders that wait.</text>
   </g>
   <g transform="translate(648.0,140)">
     <rect width="304" height="124" rx="16" fill="#152022" stroke="#01b4c8" stroke-opacity="0.35"/>
     <rect x="20" y="18" width="8" height="8" rx="4" fill="#01b4c8"/>
     <text x="36" y="26" dominant-baseline="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="600" letter-spacing="-0.01em" fill="#F4F8F9">Apps and channels</text>
     <text x="20" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">Gmail, Notion, Linear, GitHub,</text>
-    <text x="20" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">HubSpot. Web, Slack, Telegram,</text>
-    <text x="20" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">Discord, email.</text>
+    <text x="20" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">HubSpot. Brief it on Slack or Discord</text>
+    <text x="20" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8BA3AA">like a remote hire.</text>
   </g>
 </svg>
