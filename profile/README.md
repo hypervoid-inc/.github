@@ -53,16 +53,6 @@
   <p>
     <img src="assets/rule.svg" width="120" alt="" />
   </p>
-  <h2>For you / not for you</h2>
-  <p>
-    Solo founders who need leverage and can't justify a hire yet. Small teams shipping faster than they can hire. Anyone who can describe the job in a message.
-  </p>
-  <p>
-    Not for you if you want to self-host everything — that's OpenClaw. Not for you if you want an agent living in your IDE — that's Cursor or Claude Code. We're operations, not your repo. (Yes, it can still build you internal tools.)
-  </p>
-  <p>
-    <img src="assets/rule.svg" width="120" alt="" />
-  </p>
   <h2>Founders</h2>
   <table>
     <tr>
