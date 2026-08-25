@@ -15,12 +15,11 @@ You hand it work, close the laptop, and it keeps going.
 <p>
   <a href="https://os.construct.computer"><strong>Try it →</strong></a> &nbsp;·&nbsp;
   <a href="https://construct.computer"><strong>Website</strong></a>
-  <br /><br />
-  <a href="https://discord.gg/puArEQHYN9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-discord-dark.svg" /><img src="assets/icon-discord.svg" alt="Discord" width="28" height="28" /></picture></a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/use_construct"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-x-dark.svg" /><img src="assets/icon-x.svg" alt="X" width="28" height="28" /></picture></a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/company/construct-computer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-linkedin-dark.svg" /><img src="assets/icon-linkedin.svg" alt="LinkedIn" width="28" height="28" /></picture></a>
+</p>
+
+<p>
+  <a href="https://www.producthunt.com/products/construct-computer?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_campaign=badge-construct-computer" target="_blank" rel="noopener noreferrer"><img alt="Construct Computer - Your AI coworker gets a computer. You get your day back. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1186033&theme=light&period=daily" /></a>
+  <a href="https://www.producthunt.com/products/construct-computer?embed=true&utm_source=badge-top-post-topic-badge&utm_medium=badge&utm_campaign=badge-construct-computer" target="_blank" rel="noopener noreferrer"><img alt="Construct Computer - Your AI coworker gets a computer. You get your day back. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/top-post-topic-badge.svg?post_id=1186033&theme=light&period=weekly&topic_id=46" /></a>
 </p>
 
 <p>
@@ -30,12 +29,11 @@ You hand it work, close the laptop, and it keeps going.
 </p>
 
 <p>
-  <a href="https://www.producthunt.com/products/construct-computer?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-construct-computer" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1186033&amp;theme=dark" />
-      <img alt="Construct Computer - Your AI coworker gets a computer. You get your day back. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1186033&amp;theme=light" />
-    </picture>
-  </a>
+  <a href="https://discord.gg/puArEQHYN9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-discord-dark.svg" /><img src="assets/icon-discord.svg" alt="Discord" width="28" height="28" /></picture></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/use_construct"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-x-dark.svg" /><img src="assets/icon-x.svg" alt="X" width="28" height="28" /></picture></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/company/construct-computer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icon-linkedin-dark.svg" /><img src="assets/icon-linkedin.svg" alt="LinkedIn" width="28" height="28" /></picture></a>
 </p>
 
 <p>
