@@ -92,9 +92,9 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [AI employees for small business: 10 platforms compared](https://construct.computer/blog/best-ai-employee-platforms/)
 - [Nobody merges an email](https://construct.computer/blog/agent-verification-gap/)
 - [Grok Bot Alternative: Construct vs Grok Bot](https://construct.computer/blog/grokbot-alternative/)
-- [Your agent has a half-life](https://construct.computer/blog/agent-task-half-life/)
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://construct.computer/blog/)
