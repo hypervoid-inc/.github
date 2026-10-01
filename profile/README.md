@@ -92,9 +92,9 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Construct vs ChatGPT Dots](https://construct.computer/blog/construct-vs-openai-dots/)
 - [We put Jev inside our AI employee](https://construct.computer/blog/jev-ai-agents/)
 - [AI employees for small business: 10 platforms compared](https://construct.computer/blog/best-ai-employee-platforms/)
-- [Nobody merges an email](https://construct.computer/blog/agent-verification-gap/)
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://construct.computer/blog/)
