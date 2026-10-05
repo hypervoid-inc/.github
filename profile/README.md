@@ -92,9 +92,9 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [What is an AI agent with its own computer?](https://construct.computer/blog/ai-agent-with-its-own-computer/)
+- [Clef beat Jev on Jev&#39;s home turf](https://construct.computer/blog/clef-vs-jev-benchmark/)
 - [Zen Mode: some days you just want it done](https://construct.computer/blog/zen-mode/)
-- [ChatGPT Dots alternatives: 9 always-on agents that don&#39;t need ChatGPT Pro](https://construct.computer/blog/chatgpt-dots-alternatives/)
-- [Construct vs ChatGPT Dots](https://construct.computer/blog/construct-vs-openai-dots/)
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://construct.computer/blog/)
