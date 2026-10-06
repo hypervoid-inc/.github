@@ -92,9 +92,9 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Muse for Small Business alternatives: 9 AI agents for work](https://construct.computer/blog/muse-for-small-business-alternatives/)
 - [What is an AI agent with its own computer?](https://construct.computer/blog/ai-agent-with-its-own-computer/)
 - [Clef beat Jev on Jev&#39;s home turf](https://construct.computer/blog/clef-vs-jev-benchmark/)
-- [Zen Mode: some days you just want it done](https://construct.computer/blog/zen-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://construct.computer/blog/)
