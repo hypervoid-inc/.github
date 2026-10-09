@@ -92,9 +92,9 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini Spark alternatives, including for Workspace accounts and the UK and EU](https://construct.computer/blog/gemini-spark-alternatives/)
 - [How to Give an AI Agent Its Own Email Address](https://construct.computer/blog/ai-agent-email-address/)
 - [Construct vs Lindy](https://construct.computer/blog/construct-vs-lindy/)
-- [Muse for Small Business alternatives: 9 AI agents for work](https://construct.computer/blog/muse-for-small-business-alternatives/)
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://construct.computer/blog/)
