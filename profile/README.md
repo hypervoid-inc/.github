@@ -92,9 +92,9 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Agent reliability calculator: how many steps will your agent finish?](https://construct.computer/blog/agent-reliability-calculator/)
 - [Dots vs Muse vs Grok Bot vs Claude Cowork for a small business](https://construct.computer/blog/always-on-ai-agents-compared/)
 - [Construct vs Muse for Small Business](https://construct.computer/blog/construct-vs-muse/)
-- [How to Let an AI Agent Use Your Gmail Safely](https://construct.computer/blog/ai-agent-gmail-access-safely/)
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://construct.computer/blog/)
