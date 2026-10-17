@@ -92,9 +92,9 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Best AI employees for solo founders &lpar;2026&rpar;, ranked honestly](https://construct.computer/blog/best-ai-employee-for-solo-founders/)
 - [Construct vs Claude Cowork](https://construct.computer/blog/construct-vs-claude-cowork/)
 - [Agent reliability calculator: how many steps will your agent finish?](https://construct.computer/blog/agent-reliability-calculator/)
-- [Construct is now on Discord: an AI agent that works inside your server](https://construct.computer/blog/ai-agent-discord-bot/)
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://construct.computer/blog/)
