@@ -92,9 +92,9 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Email Triage for Gmail: Drafts, Not Sends](https://construct.computer/blog/ai-inbox-triage/)
 - [Best AI employees for solo founders &lpar;2026&rpar;, ranked honestly](https://construct.computer/blog/best-ai-employee-for-solo-founders/)
 - [Construct vs Claude Cowork](https://construct.computer/blog/construct-vs-claude-cowork/)
-- [Agent reliability calculator: how many steps will your agent finish?](https://construct.computer/blog/agent-reliability-calculator/)
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://construct.computer/blog/)
