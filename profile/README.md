@@ -92,9 +92,9 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Construct vs Claude Duet](https://construct.computer/blog/construct-vs-claude-duet/)
+- [Activity log vs audit log: what an AI agent should record for a small team](https://construct.computer/blog/ai-agent-activity-log/)
 - [Construct vs OpenClaw](https://construct.computer/blog/construct-vs-openclaw/)
-- [Construct vs Genspark Claw](https://construct.computer/blog/construct-vs-genspark-claw/)
-- [How to Run an AI Agent on a Schedule With Your Laptop Closed](https://construct.computer/blog/ai-agent-scheduled-tasks/)
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://construct.computer/blog/)
