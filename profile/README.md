@@ -92,9 +92,9 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Construct Computer safe? What it stores, what its agents can reach, and where protection stops](https://construct.computer/blog/is-construct-computer-safe/)
 - [How to structure an AI agent team](https://construct.computer/blog/ai-agent-team-structure/)
 - [How to use your Claude API key with an AI agent](https://construct.computer/blog/claude-api-key-ai-agent/)
-- [AI agents for content creation: build a content team in Construct](https://construct.computer/blog/ai-agents-for-content-creation/)
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://construct.computer/blog/)
