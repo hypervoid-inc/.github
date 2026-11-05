@@ -92,9 +92,9 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [How much does an AI agent cost per month?](https://construct.computer/blog/how-much-does-an-ai-agent-cost/)
 - [AI agent prompt injection: what the 2026 attacks did, and how to stop a hostile email steering your agent](https://construct.computer/blog/ai-agent-prompt-injection/)
 - [How we made construct.computer readable by AI agents](https://construct.computer/blog/make-your-website-readable-by-ai-agents/)
-- [Is Construct Computer safe? What it stores, what its agents can reach, and where protection stops](https://construct.computer/blog/is-construct-computer-safe/)
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://construct.computer/blog/)
