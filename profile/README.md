@@ -92,9 +92,9 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [The best cheap LLM for AI agents: 11 setups through our production agent loop](https://construct.computer/blog/cheap-llm-for-ai-agents/)
 - [Manus alternatives after Manus 2.0, and when to stay](https://construct.computer/blog/manus-alternatives/)
 - [How Construct&#39;s agent uses a browser and a terminal in one task](https://construct.computer/blog/ai-agent-browser-and-terminal/)
-- [How much does an AI agent cost per month?](https://construct.computer/blog/how-much-does-an-ai-agent-cost/)
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://construct.computer/blog/)
