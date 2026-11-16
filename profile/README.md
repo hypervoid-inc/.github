@@ -92,9 +92,9 @@ Chat windows reason for a minute, then forget you exist. Construct gives an AI c
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
-- [An AI daily summary in Slack: recaps, Today, or a briefing bot](https://construct.computer/blog/ai-agent-slack-briefing/)
-- [Connect a custom MCP server to Construct: limits, auth and risk](https://construct.computer/blog/ai-agent-custom-mcp/)
-- [The best cheap LLM for AI agents: 11 setups through our production agent loop](https://construct.computer/blog/cheap-llm-for-ai-agents/)
+- [Which AI employees do ChatGPT, Google and Claude recommend?](https://construct.computer/blog/ai-search-recommends-ai-employees/)
+- [What can your AI agent delete? Scope its access before it acts](https://construct.computer/blog/what-can-your-ai-agent-delete/)
+- [How to connect a custom MCP server to an AI agent](https://construct.computer/blog/ai-agent-custom-mcp/)
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://construct.computer/blog/)
